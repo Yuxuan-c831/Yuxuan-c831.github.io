@@ -11,3 +11,12 @@ format:
 # Hello, World!
 
 Welcome to my Quarto website.
+
+## Python Example
+
+The following result is calculated with Python.
+
+```{python}
+numbers = [10, 20, 30]
+print("Average:", sum(numbers) / len(numbers))
+```
